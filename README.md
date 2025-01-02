@@ -1,4 +1,4 @@
-# Original dwl README file
+# Original dwl README file:
 
 # dwl - dwm for Wayland
 
